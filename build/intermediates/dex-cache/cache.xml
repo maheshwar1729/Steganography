@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\umavi\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.0\support-annotations-23.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="E:\RM\WhatsAppFBStego\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.2.0_651e834e327bfe1f79ffcc9341c97c19a4d3c754\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\umavi\.android\build-cache\3d8a80db66a0b71c29a21eb1fc3770e35b450683\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="E:\RM\WhatsAppFBStego\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_deb173b239117cff647525acd248919d626e5c83\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\umavi\.android\build-cache\3d8a80db66a0b71c29a21eb1fc3770e35b450683\output\jars\libs\internal_impl-23.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="E:\RM\WhatsAppFBStego\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.2.0_6dca0a2a0593ccf31fbb71dd7a6b8fdc88c7a5c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\umavi\.android\build-cache\0fe70e3b11efbb2662c4a25a19d6624aaff0b410\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="E:\RM\WhatsAppFBStego\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_47129f8ed81f506de74c2704dc3802b9385e1560\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\RM\WhatsAppFBStego\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\RM\WhatsAppFBStego\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_ee46054cd52abbee4581fc22a9bca652465f66a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\RM\WhatsAppFBStego\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="115ff742face07eab065046fae44edc0a1a40423">
+        <dex dex="E:\RM\WhatsAppFBStego\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_0270a26d7a87185250726eb110005d0b017fe072\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\umavi\.android\build-cache\0605e75c47b075435d1b7f04b6dc4c137327f9cc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="E:\RM\WhatsAppFBStego\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4f1fac98802493fb3eceafeb5f57b8cffb711d82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\umavi\.android\build-cache\4d2c42d45d195f62fa9e54eec98253e508a792fb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1aa5b025efe97f5006f5be16d6ca67c6c3c0c0d8">
+        <dex dex="E:\RM\WhatsAppFBStego\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_381507cf0b13e6d0fe5c20b87114deac8152e1ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\umavi\.android\build-cache\4d767ad58e89f78c320746cfde5f217f69c0bc83\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="E:\RM\WhatsAppFBStego\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_931ba96b4ded27e5128578352ddd38a5670f50f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\umavi\.android\build-cache\c45b75aebbc379623f478c5e54bc30e77b9b4c04\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="E:\RM\WhatsAppFBStego\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_22153ca91b6641a08f24d953415838cd406c4ef4\classes.dex" />
+    </item>
+
+</items>

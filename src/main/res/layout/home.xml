@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="StegoMsgWhatsApp&amp;Facebook"
+        android:id="@+id/textView"
+        android:layout_gravity="center_horizontal"
+        android:textColor="#1c1cec"
+        android:typeface="sans"
+        android:textStyle="bold" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hide Text"
+        android:id="@+id/btn_hide"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="UnHide Text"
+        android:id="@+id/btn_unhide"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp" />
+
+    <Button
+        android:text="Hide Image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_img"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp" />
+
+    <Button
+        android:text="UnHide Image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_unhideImg"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp" />
+
+    <Button
+        android:text="Hide Audio"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_audio"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp" />
+
+    <Button
+        android:text="UnHide Audio"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_unhideAudio"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp" />
+
+    <Button
+        android:text="Set Graphical Password"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp"
+        android:id="@+id/btn_gp" />
+</LinearLayout>
